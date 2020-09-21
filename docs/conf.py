@@ -56,6 +56,10 @@ html_static_path = ['_static']
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+# Explicitly assign master document
+master_doc = 'index'
+
 # add sourcecode to path
 import sys, os
 sys.path.insert(0, os.path.abspath('../src'))
