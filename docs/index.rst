@@ -6,15 +6,13 @@
 WEmulate a modern WAN Emulator
 ====================================
 
+:Description: WEmulate is a simple and modern WAN emulator, developed to fullfill the needs of students and network engineers.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   documentation/index.md
+   deployment/index.md
+   hardware/index.md
+   
